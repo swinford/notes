@@ -42,6 +42,7 @@ cp -r myFolder/ myNewFolder
 * scp
 * pwd
 * ls (hidden files and files starting or ending with specific patterns like all files ending in txt or all files starting with the letter b)
+* tar
 
 ## File Transfer
 
